@@ -1,0 +1,63 @@
+{
+    "manifest_version": 2,
+    "name": "CM TW Management",
+	"version": "1.0",
+	"description": "Outil de gestion des comptes pour l'équipe CM.",
+	"browser_action":	{
+		"default_icon": "icon.png",
+		"default_title": "Outil de gestion des comptes pour l'équipe CM.",        
+		"default_popup": "popup.html"
+	},
+	"icons":{
+		"128":"icon_128.png"
+	},
+    // "background": "tutorialzine.html"
+    "background": {
+        "page": "tutorialzine.html"
+    },
+	"content_scripts": [
+		// {
+		// 	"matches": ["https://twitter.com/logout"],
+		// 	"js": ["logout.js"],
+		// 	"run_at": "document_end"
+		// },
+		{
+			"matches": ["https://twitter.com/"],
+			"js": ["content.js"]
+		}
+	],
+	"externally_connectable": {
+		"matches": ["http://localhost/*"]
+	},
+	// "content_scripts": [
+	// 	{
+	// 		"matches": ["https://twitter.com/logout"],
+	// 		"js": ["logout.js"],
+	// 		"run_at": "document_end"
+	// 	},
+	// 	{
+	// 		"matches": ["https://twitter.com/login*"],
+	// 		"js": ["login.js"]
+	// 	},
+	// 	{
+	// 		"matches": ["https://twitter.com/"],
+	// 		"js": ["login_home.js"]
+	// 	},
+	// 	{
+	// 		"matches": ["https://twitter.com/*"],
+	// 		"js": ["url.js"]
+	// 	},
+	// 	{
+	// 		"matches": ["https://twitter.com/*/*"],
+	// 		"js": ["url.js"]
+	// 	}
+	// ],
+	"permissions": [
+		"https://twitter.com/*",
+		"http://localhost/*",
+		"cookies",
+		"notifications",
+		"<all_urls>",
+		"tabs"
+	]
+}
