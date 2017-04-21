@@ -1,0 +1,132 @@
+[09-Mar-2017 13:30:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/cm/public_html/cnx.php on line 2
+[09-Mar-2017 13:35:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/cm/public_html/cnx.php on line 2
+[09-Mar-2017 13:35:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/cm/public_html/cnx.php on line 2
+[09-Mar-2017 13:38:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/cm/public_html/cnx.php on line 2
+[09-Mar-2017 13:40:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/cm/public_html/cnx.php on line 2
+[09-Mar-2017 13:40:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:41:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:52:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:55:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:57:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/accounts-list.php on line 211
+[09-Mar-2017 13:57:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:57:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:57:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 13:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:02:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:02:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:02:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:02:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:02:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:05:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:24:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:37:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:37:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:39:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:40:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:40:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:40:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:40:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:41:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:41:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:42:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:44:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:44:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:44:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:46:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:46:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:46:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:48:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:48:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:48:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:49:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:49:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:51:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:53:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:53:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 14:53:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/index.php on line 166
+[09-Mar-2017 15:00:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cm/public_html/accounts-list.php on line 211
+[09-Mar-2017 15:01:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:01:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/add_up_account.php:3) in /home/cm/public_html/cnx.php on line 69
+[09-Mar-2017 15:03:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:03:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/add_up_account.php:3) in /home/cm/public_html/cnx.php on line 69
+[09-Mar-2017 15:03:44 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:03:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/add_up_account.php:3) in /home/cm/public_html/cnx.php on line 69
+[09-Mar-2017 15:03:48 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:03:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/add_up_account.php:3) in /home/cm/public_html/cnx.php on line 69
+[09-Mar-2017 15:04:53 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:05:29 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 68
+[09-Mar-2017 15:13:16 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 78
+[09-Mar-2017 15:13:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/cnx.php:55) in /home/cm/public_html/cnx.php on line 79
+[09-Mar-2017 15:13:19 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 78
+[09-Mar-2017 15:13:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/cnx.php:55) in /home/cm/public_html/cnx.php on line 79
+[09-Mar-2017 15:13:49 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 78
+[09-Mar-2017 15:13:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cm/public_html/cnx.php:55) in /home/cm/public_html/cnx.php on line 79
+[09-Mar-2017 15:14:40 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/cm/public_html/cnx.php on line 72
+[09-Mar-2017 15:14:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:14:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:15:28 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:15:28 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:17:45 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:18:54 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 215
+[09-Mar-2017 15:19:39 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:19:39 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:33:15 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:33:15 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:33:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:33:18 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:37:50 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:37:50 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:38:41 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:38:41 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:38:43 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:38:43 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:38:44 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/index.php on line 201
+[09-Mar-2017 15:38:44 UTC] PHP Warning:  file_get_contents(http://localhost/dist/api/index.php/makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/index.php on line 201
+[09-Mar-2017 15:39:16 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:39:16 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:39:20 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:39:20 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:39:53 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:39:53 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:39:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:39:57 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:39:59 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:39:59 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:40:02 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:40:02 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:40:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:40:19 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:40:21 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:40:21 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:01 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:01 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:03 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:03 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:05 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:05 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/show.php on line 4
+[09-Mar-2017 15:41:08 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/cm/public_html/accounts-list.php on line 214
+[09-Mar-2017 15:41:08 UTC] PHP Warning:  file_get_contents(https://twitrss.me/twitter_user_to_rss/?user=makenzy84): failed to open stream: no suitable wrapper could be found in /home/cm/public_html/accounts-list.php on line 214
